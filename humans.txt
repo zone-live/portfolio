@@ -1,0 +1,23 @@
+/* TEAM */
+        
+Your title: António Regadas.
+                        
+Site: zone-live.github.io/portfolio.
+                        
+Location: Aveiro, PT.
+
+							
+/* THANKS */
+				
+Name: Foundation, Flat UI
+
+                            
+/* SITE */
+              
+Last update: 2013/07/02 
+                           
+Standards: HTML5, CSS3, JS
+                         
+Components: Bootstrap UI, jQuery, Font-Awesome.
+                         
+Software: Sublime Text 2
