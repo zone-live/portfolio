@@ -460,8 +460,9 @@ canvas {background-color: #f2f2e8;}
 
 .graph figcaption {
   height: auto;
-  width: 400px;
+  width: 90%;
   top: auto;
   bottom: 0;
   margin-left: 15px;
+  float: left;
 }
