@@ -7,7 +7,7 @@ var dataRadar = {
             strokeColor : "rgba(87,161,235,1)",
             pointColor : "rgba(87,161,235,1)",
             pointStrokeColor : "#fff",
-            data : [85,75,80,75,55,60,75]
+            data : [85,75,80,75,55,80,75]
         },
     ]
 }
