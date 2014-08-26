@@ -9,9 +9,3 @@ Its main focus is telling who am i, what i do, and show my web programming throu
 - Work and social skills through graph visualization.
 
 The page itself uses The Foundation 4 framework and icons from Font Awesome.
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> origin/gh-pages
